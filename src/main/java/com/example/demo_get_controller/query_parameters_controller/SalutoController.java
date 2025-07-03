@@ -1,4 +1,4 @@
-package com.example.demo_get_controller;
+package com.example.demo_get_controller.query_parameters_controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
