@@ -16,6 +16,9 @@ public class User {
     private String provincia;
     private String saluto;
 
+    public User() {
+    }
+
     public User(String nome, String provincia) {
         this.nome = nome;
         this.provincia = provincia;
